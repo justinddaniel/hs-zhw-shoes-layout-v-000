@@ -86,7 +86,5 @@
 }
 
 .fbook, .twitt, .gplus {
-  background-color: grey;
-  width: 50px;
-  height: 50px;
+ font-size: 100px;
 }
