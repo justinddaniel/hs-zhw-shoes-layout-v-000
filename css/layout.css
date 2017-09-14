@@ -84,3 +84,7 @@
   margin-right: 2%;
   margin-top: 2%;
 }
+
+.fbook, .twitt, .gplus {
+  background-color: grey;
+}
