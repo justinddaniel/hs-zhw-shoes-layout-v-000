@@ -86,6 +86,5 @@
 }
 
 a.fbook, a.twitt, a.gplus {
-clear: both;
-float: left;
+position: fixed;
 }
