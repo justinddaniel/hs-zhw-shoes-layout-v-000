@@ -37,3 +37,21 @@
   width: 32%;
   margin-left: 2%;
 }
+
+#ladybug {
+  position: relative;
+  float: left;
+  width: 30%;
+}
+
+#skateshoe {
+  position: relative;
+  float: left;
+  width: 30%;
+}
+
+#babyshoe {
+  position: relative;
+  float: left;
+  width: 30%;
+}
