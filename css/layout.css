@@ -28,12 +28,12 @@
   position: relative;
   float: left;
   width: 64%;
-  border-left: 2%
+  margin-right: 2%
 }
 
 #archive {
   position: relative;
   float: left;
   width: 32%;
-  border-right: 2%
+  margin-left: 2%;
 }
