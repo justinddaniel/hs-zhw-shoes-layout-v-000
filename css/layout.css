@@ -86,5 +86,5 @@
 }
 
 a.fbook, a.twitt, a.gplus {
-overflow: scroll;
+display: block;
 }
