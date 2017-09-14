@@ -85,7 +85,6 @@
   margin-top: 2%;
 }
 
-.gplus {
- font-size: 100px;
- color: blue;
+a.fbook, a.twitt, a.gplus {
+clear: both;
 }
