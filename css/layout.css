@@ -88,3 +88,9 @@
 a.fbook, a.twitt, a.gplus {
 display: block;
 }
+
+div#social a {
+  display: block;
+  width: 40px;
+  height: 40px;
+}
