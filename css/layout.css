@@ -24,4 +24,15 @@
 
 /* Posititoning Classes */
 
+#grassshoe {
+  position: relative;
+  float: left;
+  width: 60%;
+}
+
+#archive {
+  position: relative;
+  float: left;
+  width: 30%;
+}
 
