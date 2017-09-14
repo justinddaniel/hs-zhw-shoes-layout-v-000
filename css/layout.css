@@ -27,11 +27,13 @@
 #grassshoe {
   position: relative;
   float: left;
-  width: 60%;
+  width: 64%;
+  border-left: 2%
 }
 
 #archive {
   position: relative;
   float: left;
-  width: 30%;
+  width: 32%;
+  border-right: 2%
 }
